@@ -14,7 +14,7 @@ client = TelegramClient("my_session", api_id, api_hash)
 
 source_channel_id = 3306540431 # main source channel
 destination_channel = "@xuxhxudhx" # post channel
-last_message_id = 96350 # message id
+last_message_id = 118156 # message id
 #https://t.me/c/2682944548/601074
 #===============================================
 
